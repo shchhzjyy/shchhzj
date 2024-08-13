@@ -1,1 +1,1 @@
-FROM docker pull mysql:5.7.44
+FROM docker pull docker.io/mysql/mysql:5.7.44
